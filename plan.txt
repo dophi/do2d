@@ -1,4 +1,7 @@
 ？ 研究opengl基本功能（基础概念，矩阵变换，顶点缓冲，贴图）
+    加载png, 使用libpng库
+    opengl中纹理概念
+
 ？ opengl如何弄2d渲染
 ？ lua语法巩固，lua如何管理c内存
 ？ makefile怎么写
