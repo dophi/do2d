@@ -1,1 +1,1 @@
-gcc demo.c -lGL -lglut -lGLU  -o demo.out
+g++ demo.c -lGL -lglut -lGLU  -o demo.out
