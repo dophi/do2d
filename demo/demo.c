@@ -172,4 +172,15 @@ int main(int argc, char *argv[]) {
     glutAttachMenu(GLUT_RIGHT_BUTTON);  
     SetupRC();  
     glutMainLoop();  
-}  
+}
+
+static int testfunc(void){
+    int a;
+    a = 1;
+    int b;
+    b = a+2;
+}
+
+
+
+
